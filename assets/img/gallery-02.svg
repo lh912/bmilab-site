@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <rect x="120" y="140" width="960" height="520" rx="48" fill="#0f172a" fill-opacity="0.35"/>
+  <text x="140" y="270" fill="#ffffff" font-family="Space Grotesk, Arial" font-size="44" opacity="0.9">Lab Seminar</text>
+  <text x="140" y="330" fill="#e2e8f0" font-family="IBM Plex Mono, Arial" font-size="22" opacity="0.9">2026 / Weekly</text>
+</svg>

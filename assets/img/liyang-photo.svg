@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e5e7eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" fill="url(#bg)"/>
+  <rect x="120" y="680" width="480" height="170" rx="28" fill="#111827" opacity="0.96"/>
+  <rect x="230" y="210" width="260" height="360" rx="120" fill="#d1d5db"/>
+  <circle cx="360" cy="230" r="118" fill="#c4c9d1"/>
+  <rect x="255" y="265" width="210" height="26" rx="12" fill="#eef2f7"/>
+  <rect x="298" y="420" width="124" height="18" rx="9" fill="#eef2f7" opacity="0.85"/>
+  <text x="360" y="760" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#ffffff">Li Yang</text>
+  <text x="360" y="812" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1">Replace with actual photo</text>
+</svg>
